@@ -1,11 +1,6 @@
-# 👋 Hi there
-
-I'm [Your Name], a [Your Role] based in [Your Location]. I have a passion for [Your Passion].
 
 <div style="position: relative; text-align: center;">
-  <img src="banner.jpg" alt="Banner Image" style="width: 100%;">
-
-  <img src="https://avatars.githubusercontent.com/u/156193041?v=4" alt="Profile-Photo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
+  <img src="BANNER_IMG.jpg" alt="Banner Image" style="width: 100%;">
 </div>
 
 
