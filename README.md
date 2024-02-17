@@ -1,44 +1,29 @@
-# Hi there, I'm MD AYAZ KHAN!
+!Banner
 
-<div style="text-align:center;">
-  <img src="banner.jpg" alt="Banner Image" style="width:100%;">
-  <img src="https://avatars.githubusercontent.com/u/156193041?v=4" alt="Profile Photo" style="position: relative; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
-</div>
+<p align="center">
+  <img src="profile_picture.png" alt="Profile Picture" />
+</p>
 
-*Who am I?*
+## 👋 Hi there
 
-I'm a software engineer with a passion for building scalable web applications and exploring new technologies.
+I'm [Your Name], a [Your Role] based in [Your Location]. I have a passion for [Your Passion].
 
+## 🛠️ Tech Stack
 
+<p>
+  <img alt="HTML5" src="html_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="CSS3" src="css_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="JavaScript" src="javascript_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="React" src="react_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="Redux Toolkit" src="redux_toolkit_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="Firebase" src="firebase_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="REST API" src="restapi_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="Git" src="git_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="GitHub" src="github_logo.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="React Router" src="react_router_logo.png" height="40" style="vertical-align:top; margin:4px">
+</p>
 
-*Tech Stack:*
+## 📫 Get in touch
 
-* ![HTML](https://th.bing.com/th/id/OIP.1bnxcVBT_bKoNqP-tLjcpgHaJf?rs=1&pid=ImgDetMain) HTML
-* ![CSS](https://image.pngaaa.com/311/3920311-middle.png) CSS
-* ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) JavaScript
-* ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) React
-* ![REDUX-TOOLKIT](https://redux-toolkit.js.org/img/redux.svg) REDUX-TOOLKIT
-* ![FIREBASE](https://www.gstatic.com/devrel-devsite/prod/v5ba20c1e081870fd30b7c8ebfa8711369a575956c1f44323664285c05468c6a4/firebase/images/lockup-dark-theme.svg) FIREBASE
-* ![GIT](https://git-scm.com/images/logo@2x.png) GIT
-
-*Connect with me:*
-
-* [LinkedIn]()
-* [Twitter]()
-* [Personal Website]()
-
-
-
-
-
-*Projects:*
-
-* Project 1: [Project Name](https://github.com/[Your Username]/project1) - Description of project 1.
-* Project 2: [Project Name](https://github.com/[Your Username]/project2) - Description of project 2.
-
-
-
-
-
-
-
+- Twitter: twitter.com/yourusername
+- LinkedIn: linkedin.com/in/yourusername
