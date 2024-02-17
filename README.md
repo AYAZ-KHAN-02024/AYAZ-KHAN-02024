@@ -2,7 +2,7 @@
 
 <div style="text-align:center;">
   <img src="banner.jpg" alt="Banner Image" style="width:100%;">
-  <img src="https://avatars.githubusercontent.com/[AYAZ-KHAN-02024]" alt="Profile Photo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://avatars.githubusercontent.com/u/156193041?v=4" alt="Profile Photo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 *Who am I?*
