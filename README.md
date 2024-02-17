@@ -1,8 +1,8 @@
 # Hi there, I'm [Your Name]!
 
 <div style="text-align:center;">
-  <img src="https://path_to_your_banner_image.jpg" alt="Banner Image" style="width:100%;">
-  <img src="https://avatars.githubusercontent.com/[Your Username]" alt="Profile Photo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
+  <img src="banner.jpg" alt="Banner Image" style="width:100%;">
+  <img src="https://avatars.githubusercontent.com/[AYAZ-KHAN-02024]" alt="Profile Photo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 *Who am I?*
