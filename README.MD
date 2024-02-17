@@ -2,6 +2,11 @@
 
 I'm [Your Name], a [Your Role] based in [Your Location]. I have a passion for [Your Passion].
 
+<div style="text-align:center;">
+  <img src="banner.jpg" alt="Banner Image" style="width:100%;">
+  <img src="https://avatars.githubusercontent.com/u/156193041?v=4" alt="Profile-Photo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -11,10 +16,9 @@ I'm [Your Name], a [Your Role] based in [Your Location]. I have a passion for [Y
   <img alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40" style="vertical-align:top; margin:4px">
   <img alt="Redux Toolkit" src="https://redux-toolkit.js.org/img/redux.svg" height="40" style="vertical-align:top; margin:4px">
   <img alt="Firebase" src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" height="40" style="vertical-align:top; margin:4px">
-  <img alt="REST API" src="https://restfulapi.net/img/rest.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="REST API" src="https://th.bing.com/th?id=OSK.f640b1aecef558b8fb4493af14e8c6e3&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM" height="40" style="vertical-align:top; margin:4px">
   <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" style="vertical-align:top; margin:4px">
   <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="40" style="vertical-align:top; margin:4px">
-  <img alt="React Router" src="https://reactrouter.com/icons/icon-72x72.png?v=4f6863ae4dce0cb9e1652c4f85a8f4f4" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🚀 Projects
@@ -24,5 +28,14 @@ I'm [Your Name], a [Your Role] based in [Your Location]. I have a passion for [Y
 
 ## 📫 Get in touch
 
-- Twitter: [twitter.com/yourusername](https://twitter.com/yourusername)
+- Email-id: [twitter.com/yourusername](https://twitter.com/yourusername)
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+
+
+
+
+
+
+
+
+
