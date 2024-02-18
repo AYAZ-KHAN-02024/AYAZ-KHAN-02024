@@ -1,5 +1,5 @@
 
-<h1> hey there I am Ayaz , I am forntend developer and now  I am  learning backend </h1>
+<h1>👋 hey there I am Ayaz , I am forntend developer and now  I am  learning backend </h1>
 
 <div style="position: relative; text-align: center;">
   <img src="BANNER_IMG.png" alt="Banner Image" style="width: 100%;">
@@ -21,13 +21,13 @@
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [Project 1]()
+- [Project 2]()
 
 ## 📫 Get in touch
 
-- Email-id: [twitter.com/yourusername](https://twitter.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email-id: [email.com/yourusername]()
+- LinkedIn: [linkedin.com/in/yourusername]()
 
 
 
