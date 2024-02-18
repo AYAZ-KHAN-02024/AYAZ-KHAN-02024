@@ -21,13 +21,15 @@
 
 ## 🚀 Projects
 
-- [Project 1]()
-- [Project 2]()
+- [Project 1](https://ayaz-khan-02024.github.io/todo/)
+- [Project 2](https://todo-by-ayaz.netlify.app/)
+- [Project 3](https://ayaz-khan-02024.github.io/Password_Generator/)
+- [Project 4](https://movie-m-star-by-ayaz.netlify.app/)
 
 ## 📫 Get in touch
 
-- Email-id: [email.com/yourusername]()
-- LinkedIn: [linkedin.com/in/yourusername]()
+- Email-id: [aladdin0999099@gmail.com ]
+- LinkedIn: [www.linkedin.com/in/md-ayaz-khan-3bb8922a1]
 
 
 
