@@ -21,10 +21,12 @@
 
 ## 🚀 Projects
 
-- [Project 1](https://ayaz-khan-02024.github.io/todo/)
-- [Project 2](https://todo-by-ayaz.netlify.app/)
-- [Project 3](https://ayaz-khan-02024.github.io/Password_Generator/)
-- [Project 4](https://movie-m-star-by-ayaz.netlify.app/)
+- [Project 1 - CALCULATOR](https://ayaz-khan-02024.github.io/calculator-by-ayaz/)
+- [Project 2 - TODO-LIST-JAVASCRIPT](https://ayaz-khan-02024.github.io/todo/)
+- [Project 3 - TODO-LIST-REACT](https://todo-by-ayaz.netlify.app/)
+- [Project 4- PASSWORD-GENERATOR-JAVASCRIPT](https://ayaz-khan-02024.github.io/Password_Generator/)
+- [Project 5- MOVIE-APP-REACT](https://movie-m-star-by-ayaz.netlify.app/)
+
 
 ## 📫 Get in touch
 
