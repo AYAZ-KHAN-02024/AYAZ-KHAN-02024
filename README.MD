@@ -30,8 +30,8 @@
 
 ## 📫 Get in touch
 
-- Email-id: [aladdin0999099@gmail.com ]
-- LinkedIn: [www.linkedin.com/in/md-ayaz-khan-3bb8922a1]
+- Email-id: [ayakhan02024@gmail.com]
+- LinkedIn: [www.linkedin.com/in/ayaz-khan-8750o]
 
 
 
