@@ -30,7 +30,7 @@
 
 ## 📫 Get in touch
 
-- Email-id: [ayakhan02024@gmail.com]
+- Email-id: [ayazkhan02024@gmail.com]
 - LinkedIn: [www.linkedin.com/in/ayaz-khan-8750o]
 
 
