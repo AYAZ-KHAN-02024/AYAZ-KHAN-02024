@@ -21,6 +21,7 @@
 
 ## 🚀 Projects
 
+- [Project 0 - E-commerce website ](- [Project 1 - CALCULATOR](https://ayaz-khan-02024.github.io/calculator-by-ayaz/))
 - [Project 1 - CALCULATOR](https://ayaz-khan-02024.github.io/calculator-by-ayaz/)
 - [Project 2 - TODO-LIST-JAVASCRIPT](https://ayaz-khan-02024.github.io/todo/)
 - [Project 3 - TODO-LIST-REACT](https://ayaz-khan-02024.github.io/React-Todo-by-Ayaz/)
