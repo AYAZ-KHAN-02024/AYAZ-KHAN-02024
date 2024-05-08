@@ -23,13 +23,13 @@
 
 ## 🚀 Projects
 
-- [Project -1 - YouTube Clone](https://youtube-project-ayaz-khan.netlify.app/)
+- [Project 0 - YouTube Clone](https://youtube-project-ayaz-khan.netlify.app/)
 - [Project 0 - E-commerce](https://shoping-app-by-ayaz.netlify.app/)
-- [Project 1 - CALCULATOR](https://ayaz-khan-02024.github.io/calculator-by-ayaz/)
-- [Project 2 - TODO-LIST-JAVASCRIPT](https://ayaz-khan-02024.github.io/todo/)
-- [Project 3 - TODO-LIST-REACT](https://ayaz-khan-02024.github.io/React-Todo-by-Ayaz/)
-- [Project 4- PASSWORD-GENERATOR-JAVASCRIPT](https://ayaz-khan-02024.github.io/Password_Generator/)
-- [Project 5- MOVIE-APP-REACT](https://movie-m-star-by-ayaz.netlify.app/)
+- [Project 0 - CALCULATOR](https://ayaz-khan-02024.github.io/calculator-by-ayaz/)
+- [Project 0 - TODO-LIST-JAVASCRIPT](https://ayaz-khan-02024.github.io/todo/)
+- [Project 0 - TODO-LIST-REACT](https://ayaz-khan-02024.github.io/React-Todo-by-Ayaz/)
+- [Project 0 - PASSWORD-GENERATOR-JAVASCRIPT](https://ayaz-khan-02024.github.io/Password_Generator/)
+- [Project 0 - MOVIE-APP-REACT](https://movie-m-star-by-ayaz.netlify.app/)
 
 
 ## 📫 Get in touch
