@@ -13,6 +13,7 @@
   <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40" style="vertical-align:top; margin:4px">
   <img alt="tailwind" src="https://th.bing.com/th?id=OIP.22tPt9bi1FRyjOYQI8irPQHaD4&w=345&h=181&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="40" style="vertical-align:top; margin:4px">
   <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40" style="vertical-align:top; margin:4px">
+  <img alt="typeScript" src="https://th.bing.com/th?id=OIP.7cwsgCBxqiMI9hKRj7emwAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" height="40" style="vertical-align:top; margin:4px">
   <img alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40" style="vertical-align:top; margin:4px">
   <img alt="Redux Toolkit" src="https://redux-toolkit.js.org/img/redux.svg" height="40" style="vertical-align:top; margin:4px">
   <img alt="Firebase" src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" height="40" style="vertical-align:top; margin:4px">
