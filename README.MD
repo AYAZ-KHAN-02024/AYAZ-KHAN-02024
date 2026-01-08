@@ -1,8 +1,8 @@
 
-<h1>👋 hey there I am Ayaz , I am forntend developer and now I am  learning backend </h1>
+<h1>👋 hey there I am Ayaz...</h1>
 
 <div style="position: relative; text-align: center;">
-  <img src="BANNER_IMG.png" alt="Banner Image" style="width: 100%;">
+  <!-- <img src="BANNER_IMG.png" alt="Banner Image" style="width: 100%;"> -->
 </div>
 
 
