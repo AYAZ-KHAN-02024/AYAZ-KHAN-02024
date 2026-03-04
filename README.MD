@@ -35,7 +35,7 @@
 
 ## 📫 Get in touch
 
-- Email-id: [ayazkhan02024@gmail.com]
+- Email-id: [ayaz343863@gmail.com]
 - LinkedIn: [www.linkedin.com/in/ayaz-khan-8750o]
 - Portfolio: [https://ayaz-portfolio-2024.netlify.app/]
 
